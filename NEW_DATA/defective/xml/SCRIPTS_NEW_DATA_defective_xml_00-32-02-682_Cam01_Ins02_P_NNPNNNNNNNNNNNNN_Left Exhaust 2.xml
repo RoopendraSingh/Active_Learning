@@ -1,0 +1,62 @@
+<annotation>
+	<folder>00-32-02-682</folder>
+	<filename>Cam01_Ins02_P_NNPNNNNNNNNNNNNN_Left Exhaust 2.bmp</filename>
+	<path>D:\FCA\Badimages\FCA_Output_BadImages_Bad Images (Quantiphi)-\Bad Images (Quantiphi)-\00-32-02-682\Cam01_Ins02_P_NNPNNNNNNNNNNNNN_Left Exhaust 2.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1288</width>
+		<height>963</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Class 1 Left</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>1</ymin>
+			<xmax>515</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Class 1 Right</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>830</xmin>
+			<ymin>1</ymin>
+			<xmax>1154</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Class 2 Left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>573</ymin>
+			<xmax>504</xmax>
+			<ymax>845</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Class 2 Right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>842</xmin>
+			<ymin>582</ymin>
+			<xmax>1141</xmax>
+			<ymax>853</ymax>
+		</bndbox>
+	</object>
+</annotation>
